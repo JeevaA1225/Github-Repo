@@ -1,0 +1,17 @@
+.header {
+    background-color: #004d40;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  .main-content {
+    flex-grow: 1;
+    color: black;
+  }
+  
+  .content {
+    padding: 1rem;
+    width: 100%;
+  }
+  
